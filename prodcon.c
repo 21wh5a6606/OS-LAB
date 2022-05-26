@@ -49,4 +49,31 @@ case 3:exit(0);
 }
 }
 }
+output
+1.producer
+ 2.consumer
+ 3.exit
+enter the choice
+1
+producer produces the item 1enter the choice
+1
+producer produces the item 2enter the choice
+1
+producer produces the item 3enter the choice
+2
+consumer consumes item 3enter the choice
+2
+consumer consumes item 2enter the choice
+2
+consumer consumes item 1enter the choice
+2
+buffer is emptyenter the choice
+1
+producer produces the item 1enter the choice
+2
+consumer consumes item 1enter the choice
+2
+buffer is emptyenter the choice
+2
+
 
