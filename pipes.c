@@ -29,3 +29,8 @@ close(pd2[1]);
 exit(0);
 }
 }
+
+output
+BVRIT
+Hyderabad
+
